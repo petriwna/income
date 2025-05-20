@@ -1,0 +1,20 @@
+:root {
+  --color-primary-light: #fff8f8;
+  --color-primary-dark: #1d1d1d;
+  --color-secondary-light:  #e1e1e1;
+  --color-secondary: #909090;
+
+  --color-brand: #FF0000;
+  --color-brand-light: #edede9;
+  --color-brand-dark: rgba(255, 255, 255, 0.2);
+
+  --color-text: #fff;
+  --color-text-second: #727272;
+
+  --font-family: "Inter", sans-serif;
+}
+
+$bp-mobile: 480px;
+$bp-mobile-large: 600px;
+$bp-tablet: 768px;
+$bp-desktop: 1280px;

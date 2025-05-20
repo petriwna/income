@@ -1,0 +1,16 @@
+.link {
+  color: var(--color-primary-dark);
+  text-decoration: none;
+  transition: color 0.3s;
+  text-wrap: nowrap;
+
+  &:hover {
+    color: var(--color-brand);
+  }
+
+  &--content {
+    font-weight: 500;
+    color: var(-color-primary-dark);
+    text-decoration: underline;
+  }
+}
