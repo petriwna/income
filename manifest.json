@@ -1,5 +1,4 @@
 {
-  "main.css": "auto/main.css",
   "main.js": "auto/scripts.js",
   "public/images/education@2x.png": "auto/public/images/education@2x.png",
   "public/images/hero@2x.png": "auto/public/images/hero@2x.png",
@@ -25,8 +24,8 @@
   "favicon/favicon.svg": "auto/favicon/favicon.svg",
   "favicon/web-app-manifest-192x192.png": "auto/favicon/web-app-manifest-192x192.png",
   "cookies.html": "auto/cookies.html",
-  "privacy-policy.html": "auto/privacy-policy.html",
   "favicon/apple-touch-icon.png": "auto/favicon/apple-touch-icon.png",
+  "privacy-policy.html": "auto/privacy-policy.html",
   "terms.html": "auto/terms.html",
   "public/images/shopify.png": "auto/public/images/shopify.png",
   "public/images/job-bank.png": "auto/public/images/job-bank.png",
@@ -38,6 +37,5 @@
   "public/images/arrow.svg": "auto/public/images/arrow.svg",
   "public/images/linkedin.png": "auto/public/images/linkedin.png",
   "robots.txt": "auto/robots.txt",
-  "main.css.map": "auto/main.css.map",
   "scripts.js.map": "auto/scripts.js.map"
 }
